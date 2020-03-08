@@ -1,0 +1,3 @@
+package: github.com/rafaelarodrigues90/go-apirest
+import:
+- package: gopkg.in/mgo.v2
